@@ -1,0 +1,1 @@
+obj-y := proj1_stat_printk.o
